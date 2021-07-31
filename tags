@@ -1,0 +1,597 @@
+		Session.vim	/^inoremap <expr> 	 pumvisible() ? "\\" : "\\	"$/;"	m
+	Session.vim	/^map  <Plug>(ctrlp)$/;"	m
+	Session.vim	/^imap   <Plug>TComment_ $/;"	m
+	Session.vim	/^map   <Plug>TComment_ $/;"	m
+	Session.vim	/^imap  <Plug>TComment_$/;"	m
+	Session.vim	/^nmap  <Plug>TComment_$/;"	m
+	Session.vim	/^omap  <Plug>TComment_$/;"	m
+	Session.vim	/^vmap  <Plug>TComment_$/;"	m
+1	Session.vim	/^imap 1 <Plug>TComment_1$/;"	m
+1	Session.vim	/^nmap 1 <Plug>TComment_1$/;"	m
+1	Session.vim	/^omap 1 <Plug>TComment_1$/;"	m
+1	Session.vim	/^vmap 1 <Plug>TComment_1$/;"	m
+2	Session.vim	/^imap 2 <Plug>TComment_2$/;"	m
+2	Session.vim	/^nmap 2 <Plug>TComment_2$/;"	m
+2	Session.vim	/^omap 2 <Plug>TComment_2$/;"	m
+2	Session.vim	/^vmap 2 <Plug>TComment_2$/;"	m
+3	Session.vim	/^imap 3 <Plug>TComment_3$/;"	m
+3	Session.vim	/^nmap 3 <Plug>TComment_3$/;"	m
+3	Session.vim	/^omap 3 <Plug>TComment_3$/;"	m
+3	Session.vim	/^vmap 3 <Plug>TComment_3$/;"	m
+4	Session.vim	/^imap 4 <Plug>TComment_4$/;"	m
+4	Session.vim	/^nmap 4 <Plug>TComment_4$/;"	m
+4	Session.vim	/^omap 4 <Plug>TComment_4$/;"	m
+4	Session.vim	/^vmap 4 <Plug>TComment_4$/;"	m
+5	Session.vim	/^imap 5 <Plug>TComment_5$/;"	m
+5	Session.vim	/^nmap 5 <Plug>TComment_5$/;"	m
+5	Session.vim	/^omap 5 <Plug>TComment_5$/;"	m
+5	Session.vim	/^vmap 5 <Plug>TComment_5$/;"	m
+6	Session.vim	/^imap 6 <Plug>TComment_6$/;"	m
+6	Session.vim	/^nmap 6 <Plug>TComment_6$/;"	m
+6	Session.vim	/^omap 6 <Plug>TComment_6$/;"	m
+6	Session.vim	/^vmap 6 <Plug>TComment_6$/;"	m
+7	Session.vim	/^imap 7 <Plug>TComment_7$/;"	m
+7	Session.vim	/^nmap 7 <Plug>TComment_7$/;"	m
+7	Session.vim	/^omap 7 <Plug>TComment_7$/;"	m
+7	Session.vim	/^vmap 7 <Plug>TComment_7$/;"	m
+8	Session.vim	/^imap 8 <Plug>TComment_8$/;"	m
+8	Session.vim	/^nmap 8 <Plug>TComment_8$/;"	m
+8	Session.vim	/^omap 8 <Plug>TComment_8$/;"	m
+8	Session.vim	/^vmap 8 <Plug>TComment_8$/;"	m
+9	Session.vim	/^imap 9 <Plug>TComment_9$/;"	m
+9	Session.vim	/^nmap 9 <Plug>TComment_9$/;"	m
+9	Session.vim	/^omap 9 <Plug>TComment_9$/;"	m
+9	Session.vim	/^vmap 9 <Plug>TComment_9$/;"	m
+a	Session.vim	/^imap a <Plug>TComment_a$/;"	m
+a	Session.vim	/^map a <Plug>TComment_a$/;"	m
+b	Session.vim	/^imap b <Plug>TComment_b$/;"	m
+b	Session.vim	/^map b <Plug>TComment_b$/;"	m
+ca	Session.vim	/^map ca <Plug>TComment_ca$/;"	m
+cc	Session.vim	/^map cc <Plug>TComment_cc$/;"	m
+i	Session.vim	/^imap i <Plug>TComment_i$/;"	m
+i	Session.vim	/^map i <Plug>TComment_i$/;"	m
+n	Session.vim	/^imap n <Plug>TComment_n$/;"	m
+n	Session.vim	/^map n <Plug>TComment_n$/;"	m
+p	Session.vim	/^imap p <Plug>TComment_p$/;"	m
+p	Session.vim	/^map p <Plug>TComment_p$/;"	m
+r	Session.vim	/^imap r <Plug>TComment_r$/;"	m
+r	Session.vim	/^map r <Plug>TComment_r$/;"	m
+s	Session.vim	/^imap s <Plug>TComment_s$/;"	m
+s	Session.vim	/^map s <Plug>TComment_s$/;"	m
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0	Session.vim	/^normal! 0$/;"	m
+<BS>	Session.vim	/^vmap <BS> "-d$/;"	m
+<D-9>	Session.vim	/^nnoremap <buffer> <D-9> :exec '!python3' shellescape(@%, 1)$/;"	m
+<D-BS>	Session.vim	/^inoremap <D-BS> $/;"	m
+<D-Down>	Session.vim	/^inoremap <D-Down> <C-End>$/;"	m
+<D-Down>	Session.vim	/^noremap <D-Down> <C-End>$/;"	m
+<D-Left>	Session.vim	/^noremap <D-Left> <Home>$/;"	m
+<D-Left>	Session.vim	/^noremap! <D-Left> <Home>$/;"	m
+<D-Right>	Session.vim	/^noremap <D-Right> <End>$/;"	m
+<D-Right>	Session.vim	/^noremap! <D-Right> <End>$/;"	m
+<D-Up>	Session.vim	/^inoremap <D-Up> <C-Home>$/;"	m
+<D-Up>	Session.vim	/^noremap <D-Up> <C-Home>$/;"	m
+<D-[>	Session.vim	/^inoremap <D-[> {$/;"	m
+<Down>	Session.vim	/^inoremap <expr> <Down> pumvisible() ? "\\" : "\\<Down>"$/;"	m
+<Down>	Session.vim	/^map <Down> <Nop>$/;"	m
+<Left>	Session.vim	/^imap <Left> <Nop>$/;"	m
+<Left>	Session.vim	/^map <Left> <Nop>$/;"	m
+<M-BS>	Session.vim	/^inoremap <M-BS> $/;"	m
+<M-Down>	Session.vim	/^inoremap <M-Down> }$/;"	m
+<M-Down>	Session.vim	/^noremap <M-Down> }$/;"	m
+<M-Left>	Session.vim	/^noremap <M-Left> <C-Left>$/;"	m
+<M-Left>	Session.vim	/^noremap! <M-Left> <C-Left>$/;"	m
+<M-Right>	Session.vim	/^noremap <M-Right> <C-Right>$/;"	m
+<M-Right>	Session.vim	/^noremap! <M-Right> <C-Right>$/;"	m
+<M-Up>	Session.vim	/^inoremap <M-Up> {$/;"	m
+<M-Up>	Session.vim	/^noremap <M-Up> {$/;"	m
+<Nul>	Session.vim	/^imap <Nul> <C-Space>$/;"	m
+<Plug>(CommandT)	Session.vim	/^nnoremap <silent> <Plug>(CommandT) :CommandT$/;"	m
+<Plug>(CommandTBuffer)	Session.vim	/^nnoremap <silent> <Plug>(CommandTBuffer) :CommandTBuffer$/;"	m
+<Plug>(CommandTCommand)	Session.vim	/^nnoremap <silent> <Plug>(CommandTCommand) :CommandTCommand$/;"	m
+<Plug>(CommandTHelp)	Session.vim	/^nnoremap <silent> <Plug>(CommandTHelp) :CommandTHelp$/;"	m
+<Plug>(CommandTHistory)	Session.vim	/^nnoremap <silent> <Plug>(CommandTHistory) :CommandTHistory$/;"	m
+<Plug>(CommandTJump)	Session.vim	/^nnoremap <silent> <Plug>(CommandTJump) :CommandTJump$/;"	m
+<Plug>(CommandTLine)	Session.vim	/^nnoremap <silent> <Plug>(CommandTLine) :CommandTLine$/;"	m
+<Plug>(CommandTMRU)	Session.vim	/^nnoremap <silent> <Plug>(CommandTMRU) :CommandTMRU$/;"	m
+<Plug>(CommandTSearch)	Session.vim	/^nnoremap <silent> <Plug>(CommandTSearch) :CommandTSearch$/;"	m
+<Plug>(CommandTTag)	Session.vim	/^nnoremap <silent> <Plug>(CommandTTag) :CommandTTag$/;"	m
+<Plug>(ctrlp)	Session.vim	/^nnoremap <silent> <Plug>(ctrlp) :CtrlP$/;"	m
+<Plug>(easymotion-B)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-B) :call EasyMotion#WBW(0,1)$/;"	m
+<Plug>(easymotion-B)	Session.vim	/^onoremap <silent> <Plug>(easymotion-B) :call EasyMotion#WBW(0,1)$/;"	m
+<Plug>(easymotion-E)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-E) :call EasyMotion#EW(0,0)$/;"	m
+<Plug>(easymotion-E)	Session.vim	/^onoremap <silent> <Plug>(easymotion-E) :call EasyMotion#EW(0,0)$/;"	m
+<Plug>(easymotion-F)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-F) :call EasyMotion#S(1,0,1)$/;"	m
+<Plug>(easymotion-F)	Session.vim	/^onoremap <silent> <Plug>(easymotion-F) :call EasyMotion#S(1,0,1)$/;"	m
+<Plug>(easymotion-F2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-F2) :call EasyMotion#S(2,0,1)$/;"	m
+<Plug>(easymotion-F2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-F2) :call EasyMotion#S(2,0,1)$/;"	m
+<Plug>(easymotion-Fl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Fl) :call EasyMotion#SL(1,0,1)$/;"	m
+<Plug>(easymotion-Fl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Fl) :call EasyMotion#SL(1,0,1)$/;"	m
+<Plug>(easymotion-Fl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Fl2) :call EasyMotion#SL(2,0,1)$/;"	m
+<Plug>(easymotion-Fl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Fl2) :call EasyMotion#SL(2,0,1)$/;"	m
+<Plug>(easymotion-Fln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Fln) :call EasyMotion#SL(-1,0,1)$/;"	m
+<Plug>(easymotion-Fln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Fln) :call EasyMotion#SL(-1,0,1)$/;"	m
+<Plug>(easymotion-Fn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Fn) :call EasyMotion#S(-1,0,1)$/;"	m
+<Plug>(easymotion-Fn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Fn) :call EasyMotion#S(-1,0,1)$/;"	m
+<Plug>(easymotion-N)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-N) :call EasyMotion#Search(0,1,0)$/;"	m
+<Plug>(easymotion-N)	Session.vim	/^onoremap <silent> <Plug>(easymotion-N) :call EasyMotion#Search(0,1,0)$/;"	m
+<Plug>(easymotion-T)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-T) :call EasyMotion#T(1,0,1)$/;"	m
+<Plug>(easymotion-T)	Session.vim	/^onoremap <silent> <Plug>(easymotion-T) :call EasyMotion#T(1,0,1)$/;"	m
+<Plug>(easymotion-T2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-T2) :call EasyMotion#T(2,0,1)$/;"	m
+<Plug>(easymotion-T2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-T2) :call EasyMotion#T(2,0,1)$/;"	m
+<Plug>(easymotion-Tl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Tl) :call EasyMotion#TL(1,0,1)$/;"	m
+<Plug>(easymotion-Tl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Tl) :call EasyMotion#TL(1,0,1)$/;"	m
+<Plug>(easymotion-Tl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Tl2) :call EasyMotion#TL(2,0,1)$/;"	m
+<Plug>(easymotion-Tl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Tl2) :call EasyMotion#TL(2,0,1)$/;"	m
+<Plug>(easymotion-Tln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Tln) :call EasyMotion#TL(-1,0,1)$/;"	m
+<Plug>(easymotion-Tln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Tln) :call EasyMotion#TL(-1,0,1)$/;"	m
+<Plug>(easymotion-Tn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-Tn) :call EasyMotion#T(-1,0,1)$/;"	m
+<Plug>(easymotion-Tn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-Tn) :call EasyMotion#T(-1,0,1)$/;"	m
+<Plug>(easymotion-W)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-W) :call EasyMotion#WBW(0,0)$/;"	m
+<Plug>(easymotion-W)	Session.vim	/^onoremap <silent> <Plug>(easymotion-W) :call EasyMotion#WBW(0,0)$/;"	m
+<Plug>(easymotion-activate)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-activate) :call EasyMotion#activate(0)$/;"	m
+<Plug>(easymotion-activate)	Session.vim	/^onoremap <silent> <Plug>(easymotion-activate) :call EasyMotion#activate(0)$/;"	m
+<Plug>(easymotion-b)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-b) :call EasyMotion#WB(0,1)$/;"	m
+<Plug>(easymotion-b)	Session.vim	/^onoremap <silent> <Plug>(easymotion-b) :call EasyMotion#WB(0,1)$/;"	m
+<Plug>(easymotion-bd-E)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-E) :call EasyMotion#EW(0,2)$/;"	m
+<Plug>(easymotion-bd-E)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-E) :call EasyMotion#EW(0,2)$/;"	m
+<Plug>(easymotion-bd-W)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-W) :call EasyMotion#WBW(0,2)$/;"	m
+<Plug>(easymotion-bd-W)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-W) :call EasyMotion#WBW(0,2)$/;"	m
+<Plug>(easymotion-bd-e)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-e) :call EasyMotion#E(0,2)$/;"	m
+<Plug>(easymotion-bd-e)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-e) :call EasyMotion#E(0,2)$/;"	m
+<Plug>(easymotion-bd-el)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-el) :call EasyMotion#EL(0,2)$/;"	m
+<Plug>(easymotion-bd-el)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-el) :call EasyMotion#EL(0,2)$/;"	m
+<Plug>(easymotion-bd-f)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-f) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-bd-f)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-f) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-bd-f2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-f2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-bd-f2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-f2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-fl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-fl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-fl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-fl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-fln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-fln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-fn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-fn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-fn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-jk)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-jk) :call EasyMotion#JK(0,2)$/;"	m
+<Plug>(easymotion-bd-jk)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-jk) :call EasyMotion#JK(0,2)$/;"	m
+<Plug>(easymotion-bd-n)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-n) :call EasyMotion#Search(0,2,0)$/;"	m
+<Plug>(easymotion-bd-n)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-n) :call EasyMotion#Search(0,2,0)$/;"	m
+<Plug>(easymotion-bd-t)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-t) :call EasyMotion#T(1,0,2)$/;"	m
+<Plug>(easymotion-bd-t)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-t) :call EasyMotion#T(1,0,2)$/;"	m
+<Plug>(easymotion-bd-t2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-t2) :call EasyMotion#T(2,0,2)$/;"	m
+<Plug>(easymotion-bd-t2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-t2) :call EasyMotion#T(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tl) :call EasyMotion#TL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-tl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-tl) :call EasyMotion#TL(1,0,2)$/;"	m
+<Plug>(easymotion-bd-tl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tl2) :call EasyMotion#TL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-tl2) :call EasyMotion#TL(2,0,2)$/;"	m
+<Plug>(easymotion-bd-tln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tln) :call EasyMotion#TL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-tln) :call EasyMotion#TL(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-tn) :call EasyMotion#T(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-tn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-tn) :call EasyMotion#T(-1,0,2)$/;"	m
+<Plug>(easymotion-bd-w)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-w) :call EasyMotion#WB(0,2)$/;"	m
+<Plug>(easymotion-bd-w)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-w) :call EasyMotion#WB(0,2)$/;"	m
+<Plug>(easymotion-bd-wl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bd-wl) :call EasyMotion#WBL(0,2)$/;"	m
+<Plug>(easymotion-bd-wl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bd-wl) :call EasyMotion#WBL(0,2)$/;"	m
+<Plug>(easymotion-bl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-bl) :call EasyMotion#WBL(0,1)$/;"	m
+<Plug>(easymotion-bl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-bl) :call EasyMotion#WBL(0,1)$/;"	m
+<Plug>(easymotion-dotrepeat)	Session.vim	/^noremap <silent> <Plug>(easymotion-dotrepeat) :call EasyMotion#DotRepeat()$/;"	m
+<Plug>(easymotion-e)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-e) :call EasyMotion#E(0,0)$/;"	m
+<Plug>(easymotion-e)	Session.vim	/^onoremap <silent> <Plug>(easymotion-e) :call EasyMotion#E(0,0)$/;"	m
+<Plug>(easymotion-el)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-el) :call EasyMotion#EL(0,0)$/;"	m
+<Plug>(easymotion-el)	Session.vim	/^onoremap <silent> <Plug>(easymotion-el) :call EasyMotion#EL(0,0)$/;"	m
+<Plug>(easymotion-eol-bd-jk)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-eol-bd-jk) :call EasyMotion#Eol(0,2)$/;"	m
+<Plug>(easymotion-eol-bd-jk)	Session.vim	/^onoremap <silent> <Plug>(easymotion-eol-bd-jk) :call EasyMotion#Eol(0,2)$/;"	m
+<Plug>(easymotion-eol-j)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-eol-j) :call EasyMotion#Eol(0,0)$/;"	m
+<Plug>(easymotion-eol-j)	Session.vim	/^onoremap <silent> <Plug>(easymotion-eol-j) :call EasyMotion#Eol(0,0)$/;"	m
+<Plug>(easymotion-eol-k)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-eol-k) :call EasyMotion#Eol(0,1)$/;"	m
+<Plug>(easymotion-eol-k)	Session.vim	/^onoremap <silent> <Plug>(easymotion-eol-k) :call EasyMotion#Eol(0,1)$/;"	m
+<Plug>(easymotion-f)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-f) :call EasyMotion#S(1,0,0)$/;"	m
+<Plug>(easymotion-f)	Session.vim	/^onoremap <silent> <Plug>(easymotion-f) :call EasyMotion#S(1,0,0)$/;"	m
+<Plug>(easymotion-f2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-f2) :call EasyMotion#S(2,0,0)$/;"	m
+<Plug>(easymotion-f2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-f2) :call EasyMotion#S(2,0,0)$/;"	m
+<Plug>(easymotion-fl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-fl) :call EasyMotion#SL(1,0,0)$/;"	m
+<Plug>(easymotion-fl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-fl) :call EasyMotion#SL(1,0,0)$/;"	m
+<Plug>(easymotion-fl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-fl2) :call EasyMotion#SL(2,0,0)$/;"	m
+<Plug>(easymotion-fl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-fl2) :call EasyMotion#SL(2,0,0)$/;"	m
+<Plug>(easymotion-fln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-fln) :call EasyMotion#SL(-1,0,0)$/;"	m
+<Plug>(easymotion-fln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-fln) :call EasyMotion#SL(-1,0,0)$/;"	m
+<Plug>(easymotion-fn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-fn) :call EasyMotion#S(-1,0,0)$/;"	m
+<Plug>(easymotion-fn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-fn) :call EasyMotion#S(-1,0,0)$/;"	m
+<Plug>(easymotion-gE)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-gE) :call EasyMotion#EW(0,1)$/;"	m
+<Plug>(easymotion-gE)	Session.vim	/^onoremap <silent> <Plug>(easymotion-gE) :call EasyMotion#EW(0,1)$/;"	m
+<Plug>(easymotion-ge)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-ge) :call EasyMotion#E(0,1)$/;"	m
+<Plug>(easymotion-ge)	Session.vim	/^onoremap <silent> <Plug>(easymotion-ge) :call EasyMotion#E(0,1)$/;"	m
+<Plug>(easymotion-gel)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-gel) :call EasyMotion#EL(0,1)$/;"	m
+<Plug>(easymotion-gel)	Session.vim	/^onoremap <silent> <Plug>(easymotion-gel) :call EasyMotion#EL(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-b)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-b) :call EasyMotion#WBK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-b)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-b) :call EasyMotion#WBK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-bd-e)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-bd-e) :call EasyMotion#EK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-e)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-bd-e) :call EasyMotion#EK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-w)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-bd-w) :call EasyMotion#WBK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-bd-w)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-bd-w) :call EasyMotion#WBK(0,2)$/;"	m
+<Plug>(easymotion-iskeyword-e)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-e) :call EasyMotion#EK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-e)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-e) :call EasyMotion#EK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-ge)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-ge) :call EasyMotion#EK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-ge)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-ge) :call EasyMotion#EK(0,1)$/;"	m
+<Plug>(easymotion-iskeyword-w)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-iskeyword-w) :call EasyMotion#WBK(0,0)$/;"	m
+<Plug>(easymotion-iskeyword-w)	Session.vim	/^onoremap <silent> <Plug>(easymotion-iskeyword-w) :call EasyMotion#WBK(0,0)$/;"	m
+<Plug>(easymotion-j)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-j) :call EasyMotion#JK(0,0)$/;"	m
+<Plug>(easymotion-j)	Session.vim	/^onoremap <silent> <Plug>(easymotion-j) :call EasyMotion#JK(0,0)$/;"	m
+<Plug>(easymotion-jumptoanywhere)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-jumptoanywhere) :call EasyMotion#JumpToAnywhere(0,2)$/;"	m
+<Plug>(easymotion-jumptoanywhere)	Session.vim	/^onoremap <silent> <Plug>(easymotion-jumptoanywhere) :call EasyMotion#JumpToAnywhere(0,2)$/;"	m
+<Plug>(easymotion-k)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-k) :call EasyMotion#JK(0,1)$/;"	m
+<Plug>(easymotion-k)	Session.vim	/^onoremap <silent> <Plug>(easymotion-k) :call EasyMotion#JK(0,1)$/;"	m
+<Plug>(easymotion-lineanywhere)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-lineanywhere) :call EasyMotion#LineAnywhere(0,2)$/;"	m
+<Plug>(easymotion-lineanywhere)	Session.vim	/^onoremap <silent> <Plug>(easymotion-lineanywhere) :call EasyMotion#LineAnywhere(0,2)$/;"	m
+<Plug>(easymotion-linebackward)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-linebackward) :call EasyMotion#LineAnywhere(0,1)$/;"	m
+<Plug>(easymotion-linebackward)	Session.vim	/^onoremap <silent> <Plug>(easymotion-linebackward) :call EasyMotion#LineAnywhere(0,1)$/;"	m
+<Plug>(easymotion-lineforward)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-lineforward) :call EasyMotion#LineAnywhere(0,0)$/;"	m
+<Plug>(easymotion-lineforward)	Session.vim	/^onoremap <silent> <Plug>(easymotion-lineforward) :call EasyMotion#LineAnywhere(0,0)$/;"	m
+<Plug>(easymotion-n)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-n) :call EasyMotion#Search(0,0,0)$/;"	m
+<Plug>(easymotion-n)	Session.vim	/^onoremap <silent> <Plug>(easymotion-n) :call EasyMotion#Search(0,0,0)$/;"	m
+<Plug>(easymotion-next)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-next) :call EasyMotion#NextPrevious(0,0)$/;"	m
+<Plug>(easymotion-next)	Session.vim	/^onoremap <silent> <Plug>(easymotion-next) :call EasyMotion#NextPrevious(0,0)$/;"	m
+<Plug>(easymotion-overwin-f)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-f) :call EasyMotion#OverwinF(1)$/;"	m
+<Plug>(easymotion-overwin-f2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-f2) :call EasyMotion#OverwinF(2)$/;"	m
+<Plug>(easymotion-overwin-line)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-line) :call EasyMotion#overwin#line()$/;"	m
+<Plug>(easymotion-overwin-w)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-overwin-w) :call EasyMotion#overwin#w()$/;"	m
+<Plug>(easymotion-prefix)B	Session.vim	/^map <silent> <Plug>(easymotion-prefix)B <Plug>(easymotion-B)$/;"	m
+<Plug>(easymotion-prefix)E	Session.vim	/^map <silent> <Plug>(easymotion-prefix)E <Plug>(easymotion-E)$/;"	m
+<Plug>(easymotion-prefix)F	Session.vim	/^map <silent> <Plug>(easymotion-prefix)F <Plug>(easymotion-F)$/;"	m
+<Plug>(easymotion-prefix)N	Session.vim	/^map <silent> <Plug>(easymotion-prefix)N <Plug>(easymotion-N)$/;"	m
+<Plug>(easymotion-prefix)T	Session.vim	/^map <silent> <Plug>(easymotion-prefix)T <Plug>(easymotion-T)$/;"	m
+<Plug>(easymotion-prefix)W	Session.vim	/^map <silent> <Plug>(easymotion-prefix)W <Plug>(easymotion-W)$/;"	m
+<Plug>(easymotion-prefix)b	Session.vim	/^map <silent> <Plug>(easymotion-prefix)b <Plug>(easymotion-b)$/;"	m
+<Plug>(easymotion-prefix)e	Session.vim	/^map <silent> <Plug>(easymotion-prefix)e <Plug>(easymotion-e)$/;"	m
+<Plug>(easymotion-prefix)f	Session.vim	/^map <silent> <Plug>(easymotion-prefix)f <Plug>(easymotion-f)$/;"	m
+<Plug>(easymotion-prefix)gE	Session.vim	/^map <silent> <Plug>(easymotion-prefix)gE <Plug>(easymotion-gE)$/;"	m
+<Plug>(easymotion-prefix)ge	Session.vim	/^map <silent> <Plug>(easymotion-prefix)ge <Plug>(easymotion-ge)$/;"	m
+<Plug>(easymotion-prefix)j	Session.vim	/^map <silent> <Plug>(easymotion-prefix)j <Plug>(easymotion-j)$/;"	m
+<Plug>(easymotion-prefix)k	Session.vim	/^map <silent> <Plug>(easymotion-prefix)k <Plug>(easymotion-k)$/;"	m
+<Plug>(easymotion-prefix)n	Session.vim	/^map <silent> <Plug>(easymotion-prefix)n <Plug>(easymotion-n)$/;"	m
+<Plug>(easymotion-prefix)s	Session.vim	/^map <silent> <Plug>(easymotion-prefix)s <Plug>(easymotion-s)$/;"	m
+<Plug>(easymotion-prefix)t	Session.vim	/^map <silent> <Plug>(easymotion-prefix)t <Plug>(easymotion-t)$/;"	m
+<Plug>(easymotion-prefix)w	Session.vim	/^map <silent> <Plug>(easymotion-prefix)w <Plug>(easymotion-w)$/;"	m
+<Plug>(easymotion-prev)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-prev) :call EasyMotion#NextPrevious(0,1)$/;"	m
+<Plug>(easymotion-prev)	Session.vim	/^onoremap <silent> <Plug>(easymotion-prev) :call EasyMotion#NextPrevious(0,1)$/;"	m
+<Plug>(easymotion-repeat)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-repeat) :call EasyMotion#Repeat(0)$/;"	m
+<Plug>(easymotion-repeat)	Session.vim	/^onoremap <silent> <Plug>(easymotion-repeat) :call EasyMotion#Repeat(0)$/;"	m
+<Plug>(easymotion-s)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-s) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-s)	Session.vim	/^onoremap <silent> <Plug>(easymotion-s) :call EasyMotion#S(1,0,2)$/;"	m
+<Plug>(easymotion-s2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-s2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-s2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-s2) :call EasyMotion#S(2,0,2)$/;"	m
+<Plug>(easymotion-sl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-sl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sl) :call EasyMotion#SL(1,0,2)$/;"	m
+<Plug>(easymotion-sl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-sl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sl2) :call EasyMotion#SL(2,0,2)$/;"	m
+<Plug>(easymotion-sln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-sln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sln) :call EasyMotion#SL(-1,0,2)$/;"	m
+<Plug>(easymotion-sn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-sn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sn) :call EasyMotion#S(-1,0,2)$/;"	m
+<Plug>(easymotion-sol-bd-jk)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sol-bd-jk) :call EasyMotion#Sol(0,2)$/;"	m
+<Plug>(easymotion-sol-bd-jk)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sol-bd-jk) :call EasyMotion#Sol(0,2)$/;"	m
+<Plug>(easymotion-sol-j)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sol-j) :call EasyMotion#Sol(0,0)$/;"	m
+<Plug>(easymotion-sol-j)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sol-j) :call EasyMotion#Sol(0,0)$/;"	m
+<Plug>(easymotion-sol-k)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-sol-k) :call EasyMotion#Sol(0,1)$/;"	m
+<Plug>(easymotion-sol-k)	Session.vim	/^onoremap <silent> <Plug>(easymotion-sol-k) :call EasyMotion#Sol(0,1)$/;"	m
+<Plug>(easymotion-t)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-t) :call EasyMotion#T(1,0,0)$/;"	m
+<Plug>(easymotion-t)	Session.vim	/^onoremap <silent> <Plug>(easymotion-t) :call EasyMotion#T(1,0,0)$/;"	m
+<Plug>(easymotion-t2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-t2) :call EasyMotion#T(2,0,0)$/;"	m
+<Plug>(easymotion-t2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-t2) :call EasyMotion#T(2,0,0)$/;"	m
+<Plug>(easymotion-tl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-tl) :call EasyMotion#TL(1,0,0)$/;"	m
+<Plug>(easymotion-tl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-tl) :call EasyMotion#TL(1,0,0)$/;"	m
+<Plug>(easymotion-tl2)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-tl2) :call EasyMotion#TL(2,0,0)$/;"	m
+<Plug>(easymotion-tl2)	Session.vim	/^onoremap <silent> <Plug>(easymotion-tl2) :call EasyMotion#TL(2,0,0)$/;"	m
+<Plug>(easymotion-tln)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-tln) :call EasyMotion#TL(-1,0,0)$/;"	m
+<Plug>(easymotion-tln)	Session.vim	/^onoremap <silent> <Plug>(easymotion-tln) :call EasyMotion#TL(-1,0,0)$/;"	m
+<Plug>(easymotion-tn)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-tn) :call EasyMotion#T(-1,0,0)$/;"	m
+<Plug>(easymotion-tn)	Session.vim	/^onoremap <silent> <Plug>(easymotion-tn) :call EasyMotion#T(-1,0,0)$/;"	m
+<Plug>(easymotion-vim-N)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-vim-N) :call EasyMotion#Search(0,1,1)$/;"	m
+<Plug>(easymotion-vim-N)	Session.vim	/^onoremap <silent> <Plug>(easymotion-vim-N) :call EasyMotion#Search(0,1,1)$/;"	m
+<Plug>(easymotion-vim-n)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-vim-n) :call EasyMotion#Search(0,0,1)$/;"	m
+<Plug>(easymotion-vim-n)	Session.vim	/^onoremap <silent> <Plug>(easymotion-vim-n) :call EasyMotion#Search(0,0,1)$/;"	m
+<Plug>(easymotion-w)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-w) :call EasyMotion#WB(0,0)$/;"	m
+<Plug>(easymotion-w)	Session.vim	/^onoremap <silent> <Plug>(easymotion-w) :call EasyMotion#WB(0,0)$/;"	m
+<Plug>(easymotion-wl)	Session.vim	/^nnoremap <silent> <Plug>(easymotion-wl) :call EasyMotion#WBL(0,0)$/;"	m
+<Plug>(easymotion-wl)	Session.vim	/^onoremap <silent> <Plug>(easymotion-wl) :call EasyMotion#WBL(0,0)$/;"	m
+<Plug>NetrwBrowseX	Session.vim	/^nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(expand((exists("g:netrw_gx")? g:netrw_gx : '<cfile>')),netrw#CheckIfRemote())$/;"	m
+<Plug>NetrwBrowseXVis	Session.vim	/^vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()$/;"	m
+<Plug>TComment_	Session.vim	/^inoremap <Plug>TComment_  :TComment $/;"	m
+<Plug>TComment_	Session.vim	/^noremap <Plug>TComment_  :TComment $/;"	m
+<Plug>TComment_	Session.vim	/^inoremap <Plug>TComment_ :TComment$/;"	m
+<Plug>TComment_	Session.vim	/^nnoremap <Plug>TComment_ :TComment$/;"	m
+<Plug>TComment_	Session.vim	/^onoremap <Plug>TComment_ :TComment$/;"	m
+<Plug>TComment_	Session.vim	/^vnoremap <Plug>TComment_ :TCommentMaybeInline$/;"	m
+<Plug>TComment_1	Session.vim	/^inoremap <Plug>TComment_1 :call tcomment#SetOption("count", 1)$/;"	m
+<Plug>TComment_1	Session.vim	/^nnoremap <Plug>TComment_1 :call tcomment#SetOption("count", 1)$/;"	m
+<Plug>TComment_1	Session.vim	/^onoremap <Plug>TComment_1 :call tcomment#SetOption("count", 1)$/;"	m
+<Plug>TComment_1	Session.vim	/^vnoremap <Plug>TComment_1 :call tcomment#SetOption("count", 1)$/;"	m
+<Plug>TComment_2	Session.vim	/^inoremap <Plug>TComment_2 :call tcomment#SetOption("count", 2)$/;"	m
+<Plug>TComment_2	Session.vim	/^nnoremap <Plug>TComment_2 :call tcomment#SetOption("count", 2)$/;"	m
+<Plug>TComment_2	Session.vim	/^onoremap <Plug>TComment_2 :call tcomment#SetOption("count", 2)$/;"	m
+<Plug>TComment_2	Session.vim	/^vnoremap <Plug>TComment_2 :call tcomment#SetOption("count", 2)$/;"	m
+<Plug>TComment_3	Session.vim	/^inoremap <Plug>TComment_3 :call tcomment#SetOption("count", 3)$/;"	m
+<Plug>TComment_3	Session.vim	/^nnoremap <Plug>TComment_3 :call tcomment#SetOption("count", 3)$/;"	m
+<Plug>TComment_3	Session.vim	/^onoremap <Plug>TComment_3 :call tcomment#SetOption("count", 3)$/;"	m
+<Plug>TComment_3	Session.vim	/^vnoremap <Plug>TComment_3 :call tcomment#SetOption("count", 3)$/;"	m
+<Plug>TComment_4	Session.vim	/^inoremap <Plug>TComment_4 :call tcomment#SetOption("count", 4)$/;"	m
+<Plug>TComment_4	Session.vim	/^nnoremap <Plug>TComment_4 :call tcomment#SetOption("count", 4)$/;"	m
+<Plug>TComment_4	Session.vim	/^onoremap <Plug>TComment_4 :call tcomment#SetOption("count", 4)$/;"	m
+<Plug>TComment_4	Session.vim	/^vnoremap <Plug>TComment_4 :call tcomment#SetOption("count", 4)$/;"	m
+<Plug>TComment_5	Session.vim	/^inoremap <Plug>TComment_5 :call tcomment#SetOption("count", 5)$/;"	m
+<Plug>TComment_5	Session.vim	/^nnoremap <Plug>TComment_5 :call tcomment#SetOption("count", 5)$/;"	m
+<Plug>TComment_5	Session.vim	/^onoremap <Plug>TComment_5 :call tcomment#SetOption("count", 5)$/;"	m
+<Plug>TComment_5	Session.vim	/^vnoremap <Plug>TComment_5 :call tcomment#SetOption("count", 5)$/;"	m
+<Plug>TComment_6	Session.vim	/^inoremap <Plug>TComment_6 :call tcomment#SetOption("count", 6)$/;"	m
+<Plug>TComment_6	Session.vim	/^nnoremap <Plug>TComment_6 :call tcomment#SetOption("count", 6)$/;"	m
+<Plug>TComment_6	Session.vim	/^onoremap <Plug>TComment_6 :call tcomment#SetOption("count", 6)$/;"	m
+<Plug>TComment_6	Session.vim	/^vnoremap <Plug>TComment_6 :call tcomment#SetOption("count", 6)$/;"	m
+<Plug>TComment_7	Session.vim	/^inoremap <Plug>TComment_7 :call tcomment#SetOption("count", 7)$/;"	m
+<Plug>TComment_7	Session.vim	/^nnoremap <Plug>TComment_7 :call tcomment#SetOption("count", 7)$/;"	m
+<Plug>TComment_7	Session.vim	/^onoremap <Plug>TComment_7 :call tcomment#SetOption("count", 7)$/;"	m
+<Plug>TComment_7	Session.vim	/^vnoremap <Plug>TComment_7 :call tcomment#SetOption("count", 7)$/;"	m
+<Plug>TComment_8	Session.vim	/^inoremap <Plug>TComment_8 :call tcomment#SetOption("count", 8)$/;"	m
+<Plug>TComment_8	Session.vim	/^nnoremap <Plug>TComment_8 :call tcomment#SetOption("count", 8)$/;"	m
+<Plug>TComment_8	Session.vim	/^onoremap <Plug>TComment_8 :call tcomment#SetOption("count", 8)$/;"	m
+<Plug>TComment_8	Session.vim	/^vnoremap <Plug>TComment_8 :call tcomment#SetOption("count", 8)$/;"	m
+<Plug>TComment_9	Session.vim	/^inoremap <Plug>TComment_9 :call tcomment#SetOption("count", 9)$/;"	m
+<Plug>TComment_9	Session.vim	/^nnoremap <Plug>TComment_9 :call tcomment#SetOption("count", 9)$/;"	m
+<Plug>TComment_9	Session.vim	/^onoremap <Plug>TComment_9 :call tcomment#SetOption("count", 9)$/;"	m
+<Plug>TComment_9	Session.vim	/^vnoremap <Plug>TComment_9 :call tcomment#SetOption("count", 9)$/;"	m
+<Plug>TComment_a	Session.vim	/^inoremap <Plug>TComment_a :TCommentAs $/;"	m
+<Plug>TComment_a	Session.vim	/^noremap <Plug>TComment_a :TCommentAs $/;"	m
+<Plug>TComment_b	Session.vim	/^inoremap <Plug>TComment_b :TCommentBlock mode=#$/;"	m
+<Plug>TComment_b	Session.vim	/^noremap <Plug>TComment_b :TCommentBlock$/;"	m
+<Plug>TComment_ca	Session.vim	/^noremap <Plug>TComment_ca :call tcomment#SetOption("as", input("Comment as: ", &filetype, "customlist,tcomment#complete#Complete"))$/;"	m
+<Plug>TComment_cc	Session.vim	/^noremap <Plug>TComment_cc :call tcomment#SetOption("count", v:count1)$/;"	m
+<Plug>TComment_i	Session.vim	/^inoremap <Plug>TComment_i v:TCommentInline mode=#$/;"	m
+<Plug>TComment_i	Session.vim	/^noremap <Plug>TComment_i v:TCommentInline mode=I#$/;"	m
+<Plug>TComment_n	Session.vim	/^inoremap <Plug>TComment_n :TCommentAs =&ft$/;"	m
+<Plug>TComment_n	Session.vim	/^noremap <Plug>TComment_n :TCommentAs =&ft$/;"	m
+<Plug>TComment_p	Session.vim	/^inoremap <Plug>TComment_p :norm! m`vip$/;"	m
+<Plug>TComment_p	Session.vim	/^noremap <Plug>TComment_p m`vip:TComment$/;"	m
+<Plug>TComment_r	Session.vim	/^inoremap <Plug>TComment_r :TCommentRight$/;"	m
+<Plug>TComment_r	Session.vim	/^noremap <Plug>TComment_r :TCommentRight$/;"	m
+<Plug>TComment_s	Session.vim	/^inoremap <Plug>TComment_s :TCommentAs =&ft$/;"	m
+<Plug>TComment_s	Session.vim	/^noremap <Plug>TComment_s :TCommentAs =&ft$/;"	m
+<Plug>TComment_Comment	Session.vim	/^nnoremap <silent> <Plug>TComment_Comment :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Comment$/;"	m
+<Plug>TComment_Commentb	Session.vim	/^nnoremap <silent> <Plug>TComment_Commentb :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Commentb$/;"	m
+<Plug>TComment_Commentc	Session.vim	/^nnoremap <silent> <Plug>TComment_Commentc :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Commentc$/;"	m
+<Plug>TComment_Commentl	Session.vim	/^nnoremap <silent> <Plug>TComment_Commentl :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Commentl$/;"	m
+<Plug>TComment_Uncomment	Session.vim	/^nnoremap <silent> <Plug>TComment_Uncomment :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Uncomment$/;"	m
+<Plug>TComment_Uncommentb	Session.vim	/^nnoremap <silent> <Plug>TComment_Uncommentb :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Uncommentb$/;"	m
+<Plug>TComment_Uncommentc	Session.vim	/^nnoremap <silent> <Plug>TComment_Uncommentc :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_Uncommentc$/;"	m
+<Plug>TComment_\_	Session.vim	/^noremap <Plug>TComment_\\_  :TComment $/;"	m
+<Plug>TComment_\__	Session.vim	/^nnoremap <Plug>TComment_\\__ :TComment$/;"	m
+<Plug>TComment_\__	Session.vim	/^onoremap <Plug>TComment_\\__ :TComment$/;"	m
+<Plug>TComment_\_a	Session.vim	/^noremap <Plug>TComment_\\_a :TCommentAs $/;"	m
+<Plug>TComment_\_b	Session.vim	/^noremap <Plug>TComment_\\_b :TCommentBlock$/;"	m
+<Plug>TComment_\_n	Session.vim	/^noremap <Plug>TComment_\\_n :TCommentAs =&ft$/;"	m
+<Plug>TComment_\_p	Session.vim	/^noremap <Plug>TComment_\\_p vip:TComment$/;"	m
+<Plug>TComment_\_r	Session.vim	/^noremap <Plug>TComment_\\_r :TCommentRight$/;"	m
+<Plug>TComment_\_s	Session.vim	/^noremap <Plug>TComment_\\_s :TCommentAs =&ft$/;"	m
+<Plug>TComment_gC	Session.vim	/^nnoremap <silent> <Plug>TComment_gC :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gC$/;"	m
+<Plug>TComment_gc	Session.vim	/^nnoremap <silent> <Plug>TComment_gc :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc$/;"	m
+<Plug>TComment_gc1c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc1c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc1c$/;"	m
+<Plug>TComment_gc2c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc2c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc2c$/;"	m
+<Plug>TComment_gc3c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc3c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc3c$/;"	m
+<Plug>TComment_gc4c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc4c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc4c$/;"	m
+<Plug>TComment_gc5c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc5c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc5c$/;"	m
+<Plug>TComment_gc6c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc6c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc6c$/;"	m
+<Plug>TComment_gc7c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc7c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc7c$/;"	m
+<Plug>TComment_gc8c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc8c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc8c$/;"	m
+<Plug>TComment_gc9c	Session.vim	/^nnoremap <silent> <Plug>TComment_gc9c :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gc9c$/;"	m
+<Plug>TComment_gcb	Session.vim	/^nnoremap <silent> <Plug>TComment_gcb :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gcb$/;"	m
+<Plug>TComment_gcc	Session.vim	/^nnoremap <silent> <Plug>TComment_gcc :call tcomment#ResetOption() | if v:count > 0 | call tcomment#SetOption("count", v:count) | endif | let w:tcommentPos = getpos(".") |set opfunc=TCommentOpFunc_gcc$/;"	m
+<Plug>TComment_ic	Session.vim	/^noremap <Plug>TComment_ic :call tcomment#textobject#InlineComment()$/;"	m
+<Right>	Session.vim	/^imap <Right> <Nop>$/;"	m
+<Right>	Session.vim	/^map <Right> <Nop>$/;"	m
+<S-Tab>	Session.vim	/^inoremap <expr> <S-Tab> pumvisible() ? "\\" : "\\<S-Tab>"$/;"	m
+<SNR>16_:	Session.vim	/^nnoremap <SNR>16_: :=v:count ? v:count : ''$/;"	m
+<Up>	Session.vim	/^inoremap <expr> <Up> pumvisible() ? "\\" : "\\<Up>"$/;"	m
+<Up>	Session.vim	/^map <Up> <Nop>$/;"	m
+DecisionTreeClassifier	MasterMachineLearning.py	/^from sklearn.tree import DecisionTreeClassifier$/;"	i
+GaussianNB	MasterMachineLearning.py	/^from sklearn.naive_bayes import GaussianNB$/;"	i
+GoogleScraper	search.py	/^import GoogleScraper$/;"	i
+KNeighborsClassifier	MasterMachineLearning.py	/^from sklearn.neighbors import KNeighborsClassifier$/;"	i
+LinearDiscriminantAnalysis	MasterMachineLearning.py	/^from sklearn.discriminant_analysis import LinearDiscriminantAnalysis$/;"	i
+LogisticRegression	MasterMachineLearning.py	/^from sklearn.linear_model import LogisticRegression$/;"	i
+SVC	MasterMachineLearning.py	/^from sklearn.svm import SVC$/;"	i
+SessionLoad	Session.vim	/^let SessionLoad = 1$/;"	v
+Sum	006.py	/^Sum = 0$/;"	v
+SumS	006.py	/^SumS = 0$/;"	v
+\<Down>	Session.vim	/^nnoremap <silent> \\<Down> :BuffergatorMruCyclePrev rightbelow sbuffer$/;"	m
+\<Left>	Session.vim	/^nnoremap <silent> \\<Left> :BuffergatorMruCyclePrev leftabove vert sbuffer$/;"	m
+\<Right>	Session.vim	/^nnoremap <silent> \\<Right> :BuffergatorMruCyclePrev rightbelow vert sbuffer$/;"	m
+\<S-Down>	Session.vim	/^nnoremap <silent> \\<S-Down> :BuffergatorMruCycleNext rightbelow sbuffer$/;"	m
+\<S-Left>	Session.vim	/^nnoremap <silent> \\<S-Left> :BuffergatorMruCycleNext leftabove vert sbuffer$/;"	m
+\<S-Right>	Session.vim	/^nnoremap <silent> \\<S-Right> :BuffergatorMruCycleNext rightbelow vert sbuffer$/;"	m
+\<S-Up>	Session.vim	/^nnoremap <silent> \\<S-Up> :BuffergatorMruCycleNext leftabove sbuffer$/;"	m
+\<Up>	Session.vim	/^nnoremap <silent> \\<Up> :BuffergatorMruCyclePrev leftabove sbuffer$/;"	m
+\B	Session.vim	/^nnoremap <silent> \\B :BuffergatorClose$/;"	m
+\T	Session.vim	/^nnoremap <silent> \\T :BuffergatorTabsClose$/;"	m
+\\	Session.vim	/^map \\\\ <Plug>(easymotion-prefix)$/;"	m
+\_	Session.vim	/^map \\_  <Plug>TComment_\\_ $/;"	m
+\__	Session.vim	/^nmap \\__ <Plug>TComment_\\__$/;"	m
+\__	Session.vim	/^omap \\__ <Plug>TComment_\\__$/;"	m
+\_a	Session.vim	/^map \\_a <Plug>TComment_\\_a$/;"	m
+\_b	Session.vim	/^map \\_b <Plug>TComment_\\_b$/;"	m
+\_n	Session.vim	/^map \\_n <Plug>TComment_\\_n$/;"	m
+\_p	Session.vim	/^map \\_p <Plug>TComment_\\_p$/;"	m
+\_r	Session.vim	/^map \\_r <Plug>TComment_\\_r$/;"	m
+\_s	Session.vim	/^map \\_s <Plug>TComment_\\_s$/;"	m
+\b	Session.vim	/^nnoremap <silent> \\b :BuffergatorOpen$/;"	m
+\d	Session.vim	/^nnoremap \\d :YcmShowDetailedDiagnostic$/;"	m
+\ig	Session.vim	/^nmap <silent> \\ig <Plug>IndentGuidesToggle$/;"	m
+\j	Session.vim	/^nmap \\j <Plug>(CommandTJump)$/;"	m
+\s	Session.vim	/^nnoremap \\s :mksession$/;"	m
+\t	Session.vim	/^nnoremap <silent> \\t :BuffergatorTabsOpen$/;"	m
+\tc	Session.vim	/^nnoremap <silent> \\tc :BuffergatorTabsClose$/;"	m
+\to	Session.vim	/^nnoremap <silent> \\to :BuffergatorTabsOpen$/;"	m
+\u	Session.vim	/^nnoremap \\u :GundoToggle$/;"	m
+a	001.py	/^        a = i$/;"	v
+a	001.py	/^    a = 0$/;"	v
+a	002.py	/^    a = b$/;"	v
+a	002.py	/^a = 2$/;"	v
+a	005.py	/^a = 0$/;"	v
+a	011-skipped.py	/^        a = a + 20$/;"	v
+a	011-skipped.py	/^a = 4$/;"	v
+accuracy_score	MasterMachineLearning.py	/^from sklearn.metrics import accuracy_score$/;"	i
+answer	013.py	/^    answer = answer + str(s[i])$/;"	v
+answer	013.py	/^answer = ""$/;"	v
+answer	euler.py	/^        answer = thisn$/;"	v
+b	002.py	/^    b = i$/;"	v
+b	002.py	/^b = 3$/;"	v
+b	004.py	/^        b = i * a$/;"	v
+b	011-skipped.py	/^        b = b + 20$/;"	v
+b	011-skipped.py	/^b = 21$/;"	v
+classification_report	MasterMachineLearning.py	/^from sklearn.metrics import classification_report$/;"	i
+confusion_matrix	MasterMachineLearning.py	/^from sklearn.metrics import confusion_matrix$/;"	i
+contents	013.py	/^contents = myfile.read();$/;"	v
+contents	022.py	/^contents = myfile.read()$/;"	v
+contents	22.py	/^contents = myfile.read()$/;"	v
+convert	017.py	/^def convert(number):$/;"	f
+convert	17.py	/^def convert(number):$/;"	f
+countdiv	012.py	/^def countdiv(a):$/;"	f
+counter	007.py	/^counter = 0$/;"	v
+dataset	MasterMachineLearning.py	/^dataset = pandas.read_csv(url, names=names)$/;"	v
+divisors	012.py	/^def divisors(number):$/;"	f
+factorial	012.py	/^def factorial(number):$/;"	f
+factors	012.py	/^def factors(n):$/;"	f
+first	52.py	/^    first = str(i)$/;"	v
+found	005.py	/^            found = True$/;"	v
+found	005.py	/^found = False$/;"	v
+g<	Session.vim	/^nmap <silent> g< <Plug>TComment_Uncomment$/;"	m
+g<b	Session.vim	/^nmap <silent> g<b <Plug>TComment_Uncommentb$/;"	m
+g<c	Session.vim	/^nmap <silent> g<c <Plug>TComment_Uncommentc$/;"	m
+g>	Session.vim	/^nmap <silent> g> <Plug>TComment_Comment$/;"	m
+g>b	Session.vim	/^nmap <silent> g>b <Plug>TComment_Commentb$/;"	m
+g>c	Session.vim	/^nmap <silent> g>c <Plug>TComment_Commentc$/;"	m
+gB	Session.vim	/^nnoremap <silent> gB :BuffergatorMruCycleNext$/;"	m
+gV	Session.vim	/^nnoremap gV `[v`]$/;"	m
+gb	Session.vim	/^nnoremap <silent> gb :BuffergatorMruCyclePrev$/;"	m
+gc	Session.vim	/^nmap <silent> gc <Plug>TComment_gc$/;"	m
+gc1	Session.vim	/^nmap <silent> gc1 <Plug>TComment_gc1$/;"	m
+gc1c	Session.vim	/^nmap <silent> gc1c <Plug>TComment_gc1c$/;"	m
+gc2	Session.vim	/^nmap <silent> gc2 <Plug>TComment_gc2$/;"	m
+gc2c	Session.vim	/^nmap <silent> gc2c <Plug>TComment_gc2c$/;"	m
+gc3	Session.vim	/^nmap <silent> gc3 <Plug>TComment_gc3$/;"	m
+gc3c	Session.vim	/^nmap <silent> gc3c <Plug>TComment_gc3c$/;"	m
+gc4	Session.vim	/^nmap <silent> gc4 <Plug>TComment_gc4$/;"	m
+gc4c	Session.vim	/^nmap <silent> gc4c <Plug>TComment_gc4c$/;"	m
+gc5	Session.vim	/^nmap <silent> gc5 <Plug>TComment_gc5$/;"	m
+gc5c	Session.vim	/^nmap <silent> gc5c <Plug>TComment_gc5c$/;"	m
+gc6	Session.vim	/^nmap <silent> gc6 <Plug>TComment_gc6$/;"	m
+gc6c	Session.vim	/^nmap <silent> gc6c <Plug>TComment_gc6c$/;"	m
+gc7	Session.vim	/^nmap <silent> gc7 <Plug>TComment_gc7$/;"	m
+gc7c	Session.vim	/^nmap <silent> gc7c <Plug>TComment_gc7c$/;"	m
+gc8	Session.vim	/^nmap <silent> gc8 <Plug>TComment_gc8$/;"	m
+gc8c	Session.vim	/^nmap <silent> gc8c <Plug>TComment_gc8c$/;"	m
+gc9	Session.vim	/^nmap <silent> gc9 <Plug>TComment_gc9$/;"	m
+gc9c	Session.vim	/^nmap <silent> gc9c <Plug>TComment_gc9c$/;"	m
+gcb	Session.vim	/^nmap <silent> gcb <Plug>TComment_gcb$/;"	m
+gcc	Session.vim	/^nmap <silent> gcc <Plug>TComment_gcc$/;"	m
+gx	Session.vim	/^nmap gx <Plug>NetrwBrowseX$/;"	m
+gx	Session.vim	/^vmap gx <Plug>NetrwBrowseXVis$/;"	m
+i	002.py	/^    i = a + b$/;"	v
+i	002.py	/^i = 0$/;"	v
+i	007.py	/^i = 2$/;"	v
+ic	Session.vim	/^omap ic <Plug>TComment_ic$/;"	m
+ic	Session.vim	/^vmap ic <Plug>TComment_ic$/;"	m
+isPrime	003.py	/^def isPrime(x):$/;"	f
+isPrime	007.py	/^def isPrime(x):$/;"	f
+j	Session.vim	/^nnoremap j gj$/;"	m
+k	Session.vim	/^nnoremap k gk$/;"	m
+largest	003.py	/^largest = 0$/;"	v
+largest	004.py	/^                largest = b$/;"	v
+largest	004.py	/^largest = 0$/;"	v
+largest	008.py	/^            largest = number$/;"	v
+largest	008.py	/^largest = 0$/;"	v
+largest	011-skipped.py	/^                largest = product$/;"	v
+largest	011-skipped.py	/^            largest = product$/;"	v
+largest	011-skipped.py	/^largest = 0$/;"	v
+largest	014.py	/^        largest = i$/;"	v
+largest	014.py	/^largest = 0$/;"	v
+longest	euler.py	/^longest = 0$/;"	v
+matplotlib	MasterMachineLearning.py	/^import matplotlib.pyplot as plt$/;"	i
+mod	52.py	/^        mod = str(a*i)$/;"	v
+model_selection	MasterMachineLearning.py	/^from sklearn import model_selection$/;"	i
+mostTerms	014.py	/^        mostTerms = terms(i)$/;"	v
+mostTerms	014.py	/^mostTerms = 0$/;"	v
+myfile	013.py	/^myfile = open("one-hundred-50-digit-numbers")$/;"	v
+myfile	022.py	/^myfile = open('names.txt', 'r')$/;"	v
+myfile	22.py	/^myfile = open('names.txt', 'r')$/;"	v
+mystring	017.py	/^    mystring = mystring + convert(str(i))$/;"	v
+mystring	017.py	/^mystring = ""$/;"	v
+mystring	17.py	/^    mystring = mystring + convert(str(i))$/;"	v
+mystring	17.py	/^mystring = ""$/;"	v
+n	008.py	/^n = 7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843858615607891129494954595017379583319528532088055111254069874715852386305071569329096329522744304355766896648950445244523161731856403098711121722383113622298934233803081353362766142828064444866452387493035890729629049156044077239071381051585930796086670172427121883998797908792274921901699720888093776657273330010533678812202354218097512545405947522435258490771167055601360483958644670632441572215539753697817977846174064955149290862569321978468622482839722413756570560574902614079729686524145351004748216637048440319989000889524345065854122758866688116427171479924442928230863465674813919123162824586178664583591245665294765456828489128831426076900422421902267105562632111110937054421750694165896040807198403850962455444362981230987879927244284909188845801561660979191338754992005240636899125607176060588611646710940507754100225698315520005593572972571636269561882670428252483600823257530420752963450$/;"	v
+n	euler.py	/^        n = term$/;"	v
+names	MasterMachineLearning.py	/^names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width' , 'class']$/;"	v
+number	008.py	/^        number = int(s[i]) * int(s[i-1]) * int(s[i-2]) * int(s[i-3]) * int(s[i-4]) * int(s[i-5]) * int(s[i-6]) * int(s[i-7]) * int(s[i-8]) * int(s[i-9]) * int(s[i-19]) * int(s[i-11]) * int(s[i-12])$/;"	v
+number	012.py	/^    number = number + 1$/;"	v
+number	012.py	/^number = 1$/;"	v
+numbers	011-skipped.py	/^01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48'$/;"	v
+numbers	011-skipped.py	/^numbers = numbers.split(' ')$/;"	v
+panda	python.py	/^import panda$/;"	i
+pandas	MasterMachineLearning.py	/^import pandas$/;"	i
+parse	search.py	/^import urllib.parse$/;"	i
+plt	MasterMachineLearning.py	/^import matplotlib.pyplot as plt$/;"	i
+primality	007.py	/^def primality(n):$/;"	f
+primality	010.py	/^def primality(n):$/;"	f
+product	011-skipped.py	/^            product = numbers[i] * numbers[i+19] * numbers[i+39] * numbers[i+59]$/;"	v
+product	011-skipped.py	/^            product = numbers[i] * numbers[i+20] * numbers[i+40] * numbers[i+60]$/;"	v
+product	011-skipped.py	/^            product = numbers[i] * numbers[i+21] * numbers[i+41] * numbers[i+61]$/;"	v
+product	011-skipped.py	/^            product = numbers[i] * numbers[i-1] * numbers[i-2] * numbers[i-3]$/;"	v
+results	search.py	/^    results = GoogleScraper.scrape('Best SEO tool', num_results_per_page=50, num_pages=3, offset=0)$/;"	v
+runc	Session.vim	/^cnoremap runc !.\/%<$/;"	m
+s	008.py	/^s = str(n)$/;"	v
+s	010.py	/^        s = s + i$/;"	v
+s	010.py	/^s = 0$/;"	v
+s	013.py	/^    s = s + int(split[i])$/;"	v
+s	013.py	/^s = 0$/;"	v
+s	013.py	/^s = str(s)$/;"	v
+s	016.py	/^s = str(2**1000)$/;"	v
+s:cpo_save	Session.vim	/^let s:cpo_save=&cpo$/;"	v
+s:l	Session.vim	/^let s:l = 6 - ((5 * winheight(0) + 21) \/ 42)$/;"	v
+s:so_save	Session.vim	/^let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0$/;"	v
+s:sx	Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+scatter_matrix	MasterMachineLearning.py	/^from pandas.plotting import scatter_matrix$/;"	i
+score	022.py	/^    score = score + thisScore$/;"	v
+score	022.py	/^score = 0$/;"	v
+score	22.py	/^    score = score + thisScore$/;"	v
+score	22.py	/^score = 0$/;"	v
+split	013.py	/^split = contents.split("\\n")$/;"	v
+split	022.py	/^split = contents.split("\\",\\"")$/;"	v
+split	22.py	/^split = contents.split("\\",\\"")$/;"	v
+string	022.py	/^import string$/;"	i
+string	22.py	/^import string$/;"	i
+sum	001.py	/^sum = 0$/;"	v
+sum	002.py	/^sum =  2$/;"	v
+sumall	016.py	/^    sumall = sumall + int(s[i])$/;"	v
+sumall	016.py	/^sumall = 0$/;"	v
+term	euler.py	/^            term = 3 * n + 1$/;"	v
+term	euler.py	/^            term = n \/ 2$/;"	v
+term	euler.py	/^    term = 0$/;"	v
+terms	014.py	/^def terms(number):$/;"	f
+terms	euler.py	/^    terms = 1$/;"	v
+thisScore	022.py	/^        thisScore = thisScore + string.ascii_uppercase.index(i) + 1$/;"	v
+thisScore	022.py	/^    thisScore = 0$/;"	v
+thisScore	022.py	/^    thisScore = thisScore * (a+1)$/;"	v
+thisScore	22.py	/^        thisScore = thisScore + string.ascii_uppercase.index(i) + 1$/;"	v
+thisScore	22.py	/^    thisScore = 0$/;"	v
+thisScore	22.py	/^    thisScore = thisScore * (a+1)$/;"	v
+thisn	euler.py	/^    thisn = n$/;"	v
+triangle	012.py	/^    triangle = factorial(number)$/;"	v
+url	MasterMachineLearning.py	/^url = "https:\/\/archive.ics.uci.edu\/ml\/machine-learning-databases\/iris\/iris.data"$/;"	v
+urllib	search.py	/^import urllib.parse$/;"	i
+zt	Session.vim	/^normal! zt$/;"	m
+Â	Session.vim	/^nnoremap <silent> Â :BuffergatorMruCycleNext$/;"	m
+â	Session.vim	/^nnoremap <silent> â :BuffergatorMruCyclePrev$/;"	m

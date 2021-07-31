@@ -1,5 +1,5 @@
 longest = 0
-for n in range(3, 100000):
+for n in range(1000000):
     term = 0
     terms = 1
     thisn = n
@@ -11,10 +11,6 @@ for n in range(3, 100000):
             term = 3 * n + 1
             terms += 1
         n = term
-        if terms > longest:
-        longest = terms
+    if terms > longest:
         answer = thisn
-print(longest
-print(answer)
-
-
+print answer

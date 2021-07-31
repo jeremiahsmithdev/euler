@@ -22,25 +22,28 @@ NOTE: Once the chain starts the terms are allowed to go above one million.
 """
 
 
-longest = 0
-for n in range(3, 100000):
-    term = 0
-    terms = 1
-    thisn = n
-    while n > 1:
-        if n % 2 == 0:
-            term = n / 2
-            terms += 1
-        if n % 2 == 1:
-            term = 3 * n + 1
-            terms += 1
-        n = term
-        if terms > longest:
-            longest = terms
-            answer = thisn
-            # print(longest)
-print(answer)
-# 837799
+def terms(number):
+    count = 1
+    while number > 1:
+        if number % 2 == 0:  # even
+            number = number / 2
+            # print(number)
+        elif number % 2 == 1:
+            number = 3 * number + 1
+            # print(number)
+        count = count + 1
+    return count
+
+
+# print(terms(35655))
+# print(terms(837799))
+
+largest = 0
+mostTerms = 0
+for i in range(1, 1000000):
+    if terms(i) > mostTerms:
+        mostTerms = terms(i)
+        largest = i
+print(largest)
+
 # have answered this question however the code is currently faulty
-
-
