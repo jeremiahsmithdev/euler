@@ -24,3 +24,4 @@ print(sum)
 
 # Checking "001.py" against solution: 233168
 # Time elapsed: user: 12 ms, sys: 9.35 ms, total: 21.3 ms
+print something
